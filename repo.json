@@ -1,0 +1,269 @@
+{
+	"iceapps": [
+		{	
+			"id": "primevideo",
+			"name": "Amazon Prime Video",
+			"url": "https://www.amazon.com/Amazon-Video/b/?&node=2858778011",
+			"description": "Watch unlimited Movies, TV Shows, Documentries, etc.",
+			"catagory": "multimedia",
+			"price": "Subscription"
+		},
+		{	
+			"id": "canvas",
+			"name": "Canvas",
+			"url": "https://canvas.apps.chrome/",
+			"description": "A simple drawing program.",
+			"catagory": "graphics",
+			"price": "Free"
+		},
+		{	
+			"id": "musiclab",
+			"name": "Chrome Music Lab",
+			"url": "https://musiclab.chromeexperiments.com/",
+			"description": "Musical Experiments from Google.",
+			"catagory": "multimedia",
+			"price": "Freemium"
+		},
+		{	
+			"id": "codepen",
+			"name": "Codepen",
+			"url": "https://codepen.io/",
+			"description": "An online community for sharing their front-end web development projects.",
+			"catagory": "programming",
+			"price": "Freemium"
+		},
+		{	
+			"id": "covidmap",
+			"name": "Bing COVID-19 Tracker",
+			"url": "https://bing.com/covid",
+			"description": "Learn about all the Coronavirus cases in your area.",
+			"catagory": "accessories",
+			"price": "Free"
+		},
+		{	
+			"id": "discord",
+			"name": "Discord",
+			"url": "https://discordapp.com/app",
+			"description": "A feature-rich chat platform designed for gamers in mind",
+			"catagory": "internet",
+			"price": "Freemium"
+		},
+		{	
+			"id": "evernote",
+			"name": "Evernote",
+			"url": "https://www.evernote.com/client/web?login=true",
+			"description": "A feature rich platform for note taking, to-do lists, note archiving, organizing and more.",
+			"catagory": "office",
+			"price": "Freemium"
+		},
+		{
+			"id": "facebook",
+			"name": "Facebook",
+			"url": "https://facebook.com/",
+			"description": "A very popular social media.",
+			"catagory": "internet",
+			"price": "Free with Ads"
+		},
+		{	
+			"id": "hulu",
+			"name": "Hulu",
+			"url": "https://www.hulu.com/",
+			"description": "Watch unlimited Movies, TV Shows, Documentries, etc. (America and Japan Only)",
+			"catagory": "multimedia",
+			"price": "Subscription"
+		},
+		{	
+			"id": "islewood",
+			"name": "Islewood",
+			"url": "https://play.isleward.com/",
+			"description": "A open source, roguelike MMO.",
+			"catagory": "games",
+			"price": "Free"
+		},
+		{
+			"id": "gmail",
+			"name": "Gmail",
+			"url": "https://mail.google.com/mail/u/0/",
+			"description": "The world's most popular Email service.",
+			"catagory": "internet",
+			"price": "Freemium with Ads"
+		},
+		{
+			"id": "gdrive",
+			"name": "Google Drive",
+			"url": "https://drive.google.com/drive/u/0/",
+			"description": "Google's tool for online file storage and backup/synchronization.",
+			"catagory": "office",
+			"price": "Freemium"
+		},
+		{
+			"id": "gmaps",
+			"name": "Google Maps",
+			"url": "https://www.google.com/maps",
+			"description": "Google's wildly popular mapping service.",
+			"catagory": "accessories",
+			"price": "Free"
+		},
+		{	
+			"id": "krunker",
+			"name": "Krunker",
+			"url": "https://krunker.io",
+			"description": "3D free to play first person shooter with pixelated graphics.",
+			"catagory": "games",
+			"price": "Free with Ads"
+		},
+		{
+			"id": "maeve",
+			"name": "Maeve Music Player",
+			"url": "https://maevemusic.app",
+			"description": "A very customizable unoffical Apple Music player.",
+			"catagory": "multimedia",
+			"price": "Free"
+		},
+		{
+			"id": "netflix",
+			"name": "Netflix",
+			"url": "https://www.netflix.com/",
+			"description": "Watch unlimited Movies, TV Shows, Documentries, etc.",
+			"catagory": "multimedia",
+			"price": "Subscription"
+		},
+		{	
+			"id": "openscrobbler",
+			"name": "Open Scrobbler",
+			"url": "https://openscrobbler.com/",
+			"description": "A tool for manually scrobbling songs to Last.FM.",
+			"catagory": "multimedia",
+			"price": "Free"
+		},
+		{	
+			"id": "pixlrx",
+			"name": "Pixlr (Simpler X Varient)",
+			"url": "https://pixlr.com/x/",
+			"description": "A full featured photo editor.",
+			"catagory": "graphics",
+			"price": "Freemium with Ads"
+		},
+		{	
+			"id": "pixlre",
+			"name": "Pixlr (More Advanced E Varient)",
+			"url": "https://pixlr.com/e/",
+			"description": "A fully featured Photoshop alternative.",
+			"catagory": "graphics",
+			"price": "Freemium with Ads"
+		},
+		{	
+			"id": "photopea",
+			"name": "Photopea",
+			"url": "https://www.photopea.com",
+			"description": "A fully featured Photoshop alternative.",
+			"catagory": "graphics",
+			"price": "Freemium with Ads"
+		},
+		{	
+			"id": "polarr",
+			"name": "Polarr",
+			"url": "https://photoeditor.polarr.co/",
+			"description": "A basic photo editor.",
+			"catagory": "graphics",
+			"price": "Freemium"
+		},
+		{	
+			"id": "quickdraw",
+			"name": "Quick, Draw",
+			"url": "https://quickdraw.withgoogle.com",
+			"description": "Can a neural network learn to recognize your doodling?",
+			"catagory": "games",
+			"price": ""
+		},
+		{
+			
+			"id": "replit",
+			"name": "repl.it",
+			"url": "https://repl.it/~",
+			"description": "An Online IDE, Compiler, and Interpreter, that supports over 50 programming languages.",
+			"catagory": "programming",
+			"price": "Free"
+		},
+		{	
+			"id": "scratch",
+			"name": "Scratch",
+			"url": "https://scratch.mit.edu",
+			"description": "A block based programming language designed to help people learn the basics of coding.",
+			"catagory": "programming",
+			"price": "Free"
+		},
+		{	
+			"id": "slack",
+			"name": "Slack",
+			"url": "https://app.slack.com/client",
+			"description": "A instant messager designed for collaboration in the Workplace. ",
+			"catagory": "office",
+			"price": "Free"
+		},
+		{	
+			"id": "slither",
+			"name": "slither.io",
+			"url": "https://slither.io",
+			"description": "You start as a small snake and eat pallets to get bigger. Try to become the biggest snake.",
+			"catagory": "games",
+			"price": "Free"
+		},
+		{	
+			"id": "sumopaint",
+			"name": "Sumopaint",
+			"url": "https://sumo.app/paint",
+			"description": "A free photo editing and drawing program.",
+			"catagory": "graphics",
+			"price": "Free"
+		},
+		{	
+			"id": "trello",
+			"name": "Trello",
+			"url": "https://trello.com",
+			"description": "A project planning tool to help get things done before the deadline.",
+			"catagory": "office",
+			"price": "Freemium"
+		},
+		{
+			"id": "tweetdeck",
+			"name": "Tweetdeck for Twitter",
+			"url": "https://tweetdeck.twitter.com/",
+			"description": "A dashboard for managing tweets on Twitter.",
+			"catagory": "internet",
+			"price": "Free"
+		},
+		{
+			"id": "twitter",
+			"name": "Twitter",
+			"url": "https://twitter.com/home",
+			"description": "A microblogging and social media platform.",
+			"catagory": "internet",
+			"price": "Free with Ads"
+		},
+		{
+			"id": "youtube",
+			"name": "YouTube",
+			"url": "https://www.youtube.com/",
+			"description": "A widely used platform for sharing videos.",
+			"catagory": "multimedia",
+			"price": "Freemium with Ads"
+		},
+		{
+			"id": "ytstudio",
+			"name": "YouTube Studio",
+			"url": "https://studio.youtube.com/",
+			"description": "Manage your YouTube channel with YouTube Studio.",
+			"catagory": "internet",
+			"price": "Free"
+		},
+		{
+			"id": "youtubeLive",
+			"name": "YouTube Live Dashboard",
+			"url": "https://www.youtube.com/livestreaming/",
+			"description": "Manage your YouTube Live Streams using the YouTube Live Dashboard.",
+			"catagory": "multimedia",
+			"price": "Free"
+		}
+	]
+}

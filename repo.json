@@ -218,9 +218,9 @@
 		},
 		{
 			"id": "maeve",
-			"name": "Maeve Music Player",
+			"name": "Maeve Music Player (Requires Apple Music Subscription)",
 			"url": "https://maevemusic.app",
-			"description": "A very customizable unoffical Apple Music player with material design. (Requires Apple Music Subscription)",
+			"description": "A very customizable unoffical Apple Music player with material design.",
 			"catagory": "multimedia",
 			"price": "Free & Open Source"
 		},

@@ -8,6 +8,14 @@
 			"catagory": "multimedia",
 			"price": "Subscription"
 		},
+		{
+			"id": "bandcamp",
+			"name": "Bandcamp",
+			"url": "https://bandcamp.com",
+			"description": "Discover new music, and directory support musicians.",
+			"catagory": "multimedia",
+			"price": "Freemium"
+		},
 		{	
 			"id": "canvas",
 			"name": "Canvas",
@@ -22,7 +30,7 @@
 			"url": "https://musiclab.chromeexperiments.com/",
 			"description": "Musical Experiments from Google.",
 			"catagory": "multimedia",
-			"price": "Freemium"
+			"price": "Free and Open Source"
 		},
 		{	
 			"id": "codepen",
@@ -49,6 +57,22 @@
 			"price": "Freemium"
 		},
 		{	
+			"id": "drawception",
+			"name": "Drawception",
+			"url": "https://drawception.com/",
+			"description": "Classic telephone, but with drawing.",
+			"catagory": "games",
+			"price": "Free"
+		},
+		{
+			"id": "eyeshot",
+			"name": "Eyeshot",
+			"url": "https://eyeshot.xyz",
+			"description": "Teleport to a random spot on Google Street View, and explore the world.",
+			"catagory": "multimedia",
+			"price": "Free"
+		},
+		{
 			"id": "evernote",
 			"name": "Evernote",
 			"url": "https://www.evernote.com/client/web?login=true",
@@ -72,13 +96,29 @@
 			"catagory": "multimedia",
 			"price": "Subscription"
 		},
+		{
+			"id": "ifttt",
+			"name": "IFTTT",
+			"url": "https://ifttt.com/",
+			"description": "Connect all your favorite services together.",
+			"catagory": "internet",
+			"price": "Freemium"
+		},
+		{
+			"id": "instapaper",
+			"name": "Instapaper",
+			"url": "https://www.instapaper.com/u",
+			"description": "Save pages and articles on the internet to view later.",
+			"catagory": "internet",
+			"price": "Freemium"
+		},
 		{	
 			"id": "islewood",
 			"name": "Islewood",
 			"url": "https://play.isleward.com/",
 			"description": "A open source, roguelike MMO.",
 			"catagory": "games",
-			"price": "Free"
+			"price": "Free and Open Source"
 		},
 		{
 			"id": "gmail",
@@ -97,6 +137,14 @@
 			"price": "Freemium"
 		},
 		{
+			"id": "gkeep",
+			"name": "Google Keep",
+			"url": "https://keep.google.com/",
+			"description": "Google's cross platform note-taking service.",
+			"catagory": "office",
+			"price": "Free"
+		},
+		{
 			"id": "gmaps",
 			"name": "Google Maps",
 			"url": "https://www.google.com/maps",
@@ -113,12 +161,28 @@
 			"price": "Free with Ads"
 		},
 		{
+			"id": "lastfm",
+			"name": "Last.fm",
+			"url": "https://www.last.fm",
+			"description": "A tool for music discovery, music tracking tool, and streaming service.",
+			"catagory": "multimedia",
+			"price": "Freemium with Ads"
+		},
+		{
 			"id": "maeve",
 			"name": "Maeve Music Player",
 			"url": "https://maevemusic.app",
 			"description": "A very customizable unoffical Apple Music player.",
 			"catagory": "multimedia",
 			"price": "Free"
+		},
+		{
+			"id": "mega",
+			"name": "Mega",
+			"url": "https://mega.nz/",
+			"description": "Encrypted online file storage service.",
+			"catagory": "office",
+			"price": "Freemium"
 		},
 		{
 			"id": "netflix",
@@ -134,9 +198,17 @@
 			"url": "https://openscrobbler.com/",
 			"description": "A tool for manually scrobbling songs to Last.FM.",
 			"catagory": "multimedia",
-			"price": "Free"
+			"price": "Free and Open Source"
 		},
-		{	
+		{
+			"id": "pandora",
+			"name": "Pandora",
+			"url": "https://www.pandora.com",
+			"description": "A radio streaming service.",
+			"catagory": "multimedia",
+			"price": "Freemium with Ads"
+		},
+		{
 			"id": "pixlrx",
 			"name": "Pixlr (Simpler X Varient)",
 			"url": "https://pixlr.com/x/",
@@ -160,6 +232,14 @@
 			"catagory": "graphics",
 			"price": "Freemium with Ads"
 		},
+		{
+			"id": "pocket",
+			"name": "Pocket",
+			"url": "https://app.getpocket.com/",
+			"description": "Save pages and articles on the internet to view later.",
+			"catagory": "internet",
+			"price": "Freemium"
+		},
 		{	
 			"id": "polarr",
 			"name": "Polarr",
@@ -174,7 +254,7 @@
 			"url": "https://quickdraw.withgoogle.com",
 			"description": "Can a neural network learn to recognize your doodling?",
 			"catagory": "games",
-			"price": ""
+			"price": "Free"
 		},
 		{
 			
@@ -183,6 +263,14 @@
 			"url": "https://repl.it/~",
 			"description": "An Online IDE, Compiler, and Interpreter, that supports over 50 programming languages.",
 			"catagory": "programming",
+			"price": "Free"
+		},
+		{
+			"id": "refind",
+			"name": "Refind",
+			"url": "https://refind.com",
+			"description": "Shows you 10 articles a day based on your interests and allows you to save articles from the web.",
+			"catagory": "internet",
 			"price": "Free"
 		},
 		{	
@@ -217,6 +305,38 @@
 			"catagory": "graphics",
 			"price": "Free"
 		},
+		{
+			"id": "skribblio",
+			"name": "skribbl.io",
+			"url": "https://skribbl.io/",
+			"description": "https://skribbl.io/",
+			"catagory": "games",
+			"price": "Free with Ads"
+		},
+		{
+			"id": "soundcloud",
+			"name": "SoundCloud",
+			"url": "https://soundcloud.com/",
+			"description": "Share and Discover music, podcasts, and remixes from small artists.",
+			"catagory": "multimedia",
+			"price": "Freemium with Ads"
+		},
+		{
+			"id": "spotify",
+			"name": "Spotify",
+			"url": "https://open.spotify.com/",
+			"description": "A music, podcast, and radio streaming service.",
+			"catagory": "multimedia",
+			"price": "Freemium with Ads"
+		},
+		{
+			"id": "tangi",
+			"name": "Tangi",
+			"url": "https://tangi.co/",
+			"description": "Short videos to learn new things (by Google).",
+			"catagory": "multimedia",
+			"price": "Free"
+		},
 		{	
 			"id": "trello",
 			"name": "Trello",
@@ -242,6 +362,14 @@
 			"price": "Free with Ads"
 		},
 		{
+			"id": "unscreen",
+			"name": "Unscreen",
+			"url": "https://www.unscreen.com/",
+			"description": "Remove the background off of any video of GIF.",
+			"catagory": "multimedia",
+			"price": "Freemium"
+		},
+		{
 			"id": "youtube",
 			"name": "YouTube",
 			"url": "https://www.youtube.com/",
@@ -263,6 +391,22 @@
 			"url": "https://www.youtube.com/livestreaming/",
 			"description": "Manage your YouTube Live Streams using the YouTube Live Dashboard.",
 			"catagory": "multimedia",
+			"price": "Free"
+		},
+		{
+			"id": "wallabag",
+			"name": "Wallabag",
+			"url": "https://app.wallabag.it",
+			"description": "Save web articles to read later.",
+			"catagory": "internet",
+			"price": "Subscription and Open Source"
+		},
+		{
+			"id": "wikipedia",
+			"name": "Wikipedia",
+			"url": "https://www.wikipedia.org/",
+			"description": "The online encyclopedia",
+			"catagory": "accessories",
 			"price": "Free"
 		}
 	]

@@ -9,6 +9,14 @@
 			"price": "Subscription"
 		},
 		{
+			"id": "applemusic",
+			"name": "Apple Music",
+			"url": "https://beta.music.apple.com",
+			"description": "Apple's Streaming Service.",
+			"catagory": "multimedia",
+			"price": "Subscription"
+		},
+		{
 			"id": "bandcamp",
 			"name": "Bandcamp",
 			"url": "https://bandcamp.com",
@@ -40,6 +48,14 @@
 			"catagory": "programming",
 			"price": "Freemium"
 		},
+		{
+			"id": "codesandbox",
+			"name": "CodeSandbox",
+			"url": "https://codesandbox.io/",
+			"description": "Discover and create web development projects.",
+			"catagory": "programming",
+			"price": "Freemium with Ads"
+		},
 		{	
 			"id": "covidmap",
 			"name": "Bing COVID-19 Tracker",
@@ -47,6 +63,14 @@
 			"description": "Learn about all the Coronavirus cases in your area.",
 			"catagory": "accessories",
 			"price": "Free"
+		},
+		{
+			"id": "deezer",
+			"name": "Deezer",
+			"url": "https://www.deezer.com/",
+			"description": "Stream music, podcasts, radio, and more.",
+			"catagory": "multimedia",
+			"price": "Freemium with Ads"
 		},
 		{	
 			"id": "discord",
@@ -121,6 +145,22 @@
 			"price": "Free and Open Source"
 		},
 		{
+			"id": "jsfiddle",
+			"name": "JSFiddle",
+			"url": "https://jsfiddle.net/",
+			"description": "Create and share \"fiddles\" made with web languages.",
+			"catagory": "programming",
+			"price": "Freemium with Ads"
+		},
+		{
+			"id": "jsitor",
+			"name": "jsitor",
+			"url": "https://jsitor.com/",
+			"description": "A tool for creating and showcasing web code snippets.",
+			"catagory": "programming",
+			"price": "Free"
+		},
+		{
 			"id": "gmail",
 			"name": "Gmail",
 			"url": "https://mail.google.com/mail/u/0/",
@@ -152,6 +192,14 @@
 			"catagory": "accessories",
 			"price": "Free"
 		},
+		{
+			"id": "playmusic",
+			"name": "Google Play Music",
+			"url": "https://play.google.com/music/listen",
+			"description": "Stream music, podcasts, radio, and your own personal Google Play library.",
+			"catagory": "multimedia",
+			"price": "Freemium with Ads"
+		},
 		{	
 			"id": "krunker",
 			"name": "Krunker",
@@ -172,9 +220,9 @@
 			"id": "maeve",
 			"name": "Maeve Music Player",
 			"url": "https://maevemusic.app",
-			"description": "A very customizable unoffical Apple Music player.",
+			"description": "A very customizable unoffical Apple Music player with material design.",
 			"catagory": "multimedia",
-			"price": "Free"
+			"price": "Free & Open Source (Requires Apple Music Subscription)"
 		},
 		{
 			"id": "mega",
@@ -231,6 +279,14 @@
 			"description": "A fully featured Photoshop alternative.",
 			"catagory": "graphics",
 			"price": "Freemium with Ads"
+		},
+		{
+			"id": "plunker",
+			"name": "Plunker",
+			"url": "https://plnkr.co/",
+			"description": "Prototype, experiment, share, and debug your ideas on a web platform.",
+			"catagory": "programming",
+			"price": "Free amd Open Source"
 		},
 		{
 			"id": "pocket",

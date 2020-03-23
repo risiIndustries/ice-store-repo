@@ -112,6 +112,22 @@
 			"catagory": "internet",
 			"price": "Free with Ads"
 		},
+		{
+			"id": "feedly",
+			"name": "Feedly",
+			"url": "https://feedly.com/",
+			"description": "A way to organize and read articles and rss feeds.",
+			"catagory": "internet",
+			"price": "Freemium with Ads"
+		},
+		{
+			"id": "fevertunes",
+			"name": "feverTunes",
+			"url": "https://www.fevertunes.com/home",
+			"description": "A well designed unoffical Apple Music player (requires subscription).",
+			"catagory": "multimedia",
+			"price": "Free"
+		},
 		{	
 			"id": "hulu",
 			"name": "Hulu",
@@ -127,6 +143,14 @@
 			"description": "Connect all your favorite services together.",
 			"catagory": "internet",
 			"price": "Freemium"
+		},
+		{
+			"id": "inoreader",
+			"name": "Inoreader",
+			"url": "https://www.inoreader.com/",
+			"description": "A feature rich RSS reader.",
+			"catagory": "internet",
+			"price": "Freemium with Ads"
 		},
 		{
 			"id": "instapaper",
@@ -220,7 +244,7 @@
 			"id": "maeve",
 			"name": "Maeve Music Player",
 			"url": "https://maevemusic.app",
-			"description": "A unoffical material design Apple Music player (requires subscription).",
+			"description": "An unoffical material design Apple Music player (requires subscription).",
 			"catagory": "multimedia",
 			"price": "Free & Open Source"
 		},
@@ -233,12 +257,36 @@
 			"price": "Freemium"
 		},
 		{
+			"id": "musish",
+			"name": "Musish",
+			"url": "https://musi.sh/",
+			"description": "A feature rich unoffical Apple Music player (requires subscription).",
+			"catagory": "multimedia",
+			"price": "Free & Open Source"
+		},
+		{
+			"id": "themusic",
+			"name": "The Music",
+			"url": "https://themusic.io/",
+			"description": "A well designed unoffical Apple Music player (requires subscription).",
+			"catagory": "multimedia",
+			"price": "Free"
+		},
+		{
 			"id": "netflix",
 			"name": "Netflix",
 			"url": "https://www.netflix.com/",
 			"description": "Watch unlimited Movies, TV Shows, Documentries, etc.",
 			"catagory": "multimedia",
 			"price": "Subscription"
+		},
+		{
+			"id": "newsblur",
+			"name": "Newsblur",
+			"url": "http://newsblur.com",
+			"description": "An RSS ffed manager.",
+			"catagory": "internet",
+			"price": "Freemium"
 		},
 		{	
 			"id": "openscrobbler",
@@ -248,6 +296,14 @@
 			"catagory": "multimedia",
 			"price": "Free and Open Source"
 		},
+		{	
+			"id": "Outlook",
+			"name": "Outlook",
+			"url": "https://outlook.live.com/owa/?nlp=1",
+			"description": "Microsoft's Email service.",
+			"catagory": "multimedia",
+			"price": "Freemium with Ads"
+		},
 		{
 			"id": "pandora",
 			"name": "Pandora",
@@ -255,6 +311,14 @@
 			"description": "A radio streaming service.",
 			"catagory": "multimedia",
 			"price": "Freemium with Ads"
+		},
+		{
+			"id": "protonmail",
+			"name": "ProtonMail",
+			"url": "https://mail.protonmail.com/inbox",
+			"description": "A free, privacy friendly, encrypted email service.",
+			"catagory": "internet",
+			"price": "Freemium"
 		},
 		{
 			"id": "pixlrx",
@@ -393,6 +457,22 @@
 			"catagory": "multimedia",
 			"price": "Free"
 		},
+		{
+			"id": "thinmusic",
+			"name": "ThinMusic",
+			"url": "https://www.thinmusic.com/",
+			"description": "A simple unoffical Apple Music player (requires subscription).",
+			"catagory": "multimedia",
+			"price": "Free and Open Source"
+		},
+		{
+			"id": "tidal",
+			"name": "Tidal",
+			"url": "https://listen.tidal.com/",
+			"description": "A high quality music streaming service.",
+			"catagory": "multimedia",
+			"price": "Subscription"
+		},
 		{	
 			"id": "trello",
 			"name": "Trello",
@@ -400,6 +480,14 @@
 			"description": "A project planning tool to help get things done before the deadline.",
 			"catagory": "office",
 			"price": "Freemium"
+		},
+		{	
+			"id": "tutanota",
+			"name": "Tutanota",
+			"url": "https://mail.tutanota.com",
+			"description": "An end to end encrypted email provider.",
+			"catagory": "internet",
+			"price": "Freemium"	
 		},
 		{
 			"id": "tweetdeck",
@@ -434,6 +522,14 @@
 			"price": "Freemium with Ads"
 		},
 		{
+			"id": "youtubeLive",
+			"name": "YouTube Live Dashboard",
+			"url": "https://www.youtube.com/livestreaming/",
+			"description": "Manage your YouTube Live Streams using the YouTube Live Dashboard.",
+			"catagory": "multimedia",
+			"price": "Free"
+		},
+		{
 			"id": "ytstudio",
 			"name": "YouTube Studio",
 			"url": "https://studio.youtube.com/",
@@ -442,12 +538,20 @@
 			"price": "Free"
 		},
 		{
-			"id": "youtubeLive",
-			"name": "YouTube Live Dashboard",
-			"url": "https://www.youtube.com/livestreaming/",
-			"description": "Manage your YouTube Live Streams using the YouTube Live Dashboard.",
+			"id": "youtubemusic",
+			"name": "YouTube Music",
+			"url": "https://music.youtube.com/",
+			"description": "A music streaming service made by YouTube with a focus on video.",
 			"catagory": "multimedia",
-			"price": "Free"
+			"price": "Freemium with Ads"
+		},
+		{
+			"id": "youtubetv",
+			"name": "YouTube TV",
+			"url": "https://tv.youtube.com/",
+			"description": "Stream your favorite TV channels and shows.",
+			"catagory": "multimedia",
+			"price": "Subscription"
 		},
 		{
 			"id": "wallabag",
@@ -464,6 +568,14 @@
 			"description": "The online encyclopedia",
 			"catagory": "accessories",
 			"price": "Free"
+		},
+		{
+			"id": "zacharyseguin",
+			"name": "Zachary Seguin",
+			"url": "https://music.zacharyseguin.ca",
+			"description": "A website-like unoffical Apple Music player (requires subscription).",
+			"catagory": "multimedia",
+			"price": "Free and Open Source"
 		}
 	]
 }

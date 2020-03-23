@@ -301,7 +301,7 @@
 			"name": "Outlook",
 			"url": "https://outlook.live.com/owa/?nlp=1",
 			"description": "Microsoft's Email service.",
-			"catagory": "multimedia",
+			"catagory": "internet",
 			"price": "Freemium with Ads"
 		},
 		{
@@ -389,7 +389,7 @@
 			"id": "refind",
 			"name": "Refind",
 			"url": "https://refind.com",
-			"description": "Shows you 10 articles a day based on your interests and allows you to save articles from the web.",
+			"description": "Find articles everyday based on your interests and save articles from the web.",
 			"catagory": "internet",
 			"price": "Free"
 		},

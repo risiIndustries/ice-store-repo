@@ -9,6 +9,30 @@
 			"price": "Subscription"
 		},
 		{
+			"id": "icalendar",
+			"name": "Apple Calendar",
+			"url": "https://www.icloud.com/calendar/",
+			"description": "Manage your iCloud calendar.",
+			"catagory": "accessories",
+			"price": "Freemium"
+		},
+		{
+			"id": "icontacts",
+			"name": "Apple Contacts",
+			"url": "https://www.icloud.com/contacts/",
+			"description": "Manage your iCloud contacts.",
+			"catagory": "accessories",
+			"price": "Freemium"
+		},
+		{
+			"id": "ikeynote",
+			"name": "Apple Keynote",
+			"url": "https://www.icloud.com/keynotes/",
+			"description": "Apple's presentation program synced with iCloud.",
+			"catagory": "office",
+			"price": "Freemium"
+		},
+		{
 			"id": "applemusic",
 			"name": "Apple Music",
 			"url": "https://beta.music.apple.com",
@@ -17,11 +41,67 @@
 			"price": "Subscription"
 		},
 		{
+			"id": "inotes",
+			"name": "Apple Notes",
+			"url": "https://www.icloud.com/notes/",
+			"description": "Apple's note service synced with iCloud.",
+			"catagory": "accessories",
+			"price": "Freemium"
+		},
+		{
+			"id": "inumbers",
+			"name": "Apple Numbers",
+			"url": "https://www.icloud.com/numbers/",
+			"description": "Apple's spreadshirt program synced with iCloud.",
+			"catagory": "office",
+			"price": "Freemium"
+		},
+		{
+			"id": "ipages",
+			"name": "Apple Pages",
+			"url": "https://www.icloud.com/pages/",
+			"description": "Apple's word processor synced with iCloud.",
+			"catagory": "office",
+			"price": "Freemium"
+		},
+		{
+			"id": "iphotos",
+			"name": "Apple Photos",
+			"url": "https://www.icloud.com/photos/",
+			"description": "View your photos synced to iCloud.",
+			"catagory": "internet",
+			"price": "Freemium"
+		},
+		{
+			"id": "ireminders",
+			"name": "Apple Reminders",
+			"url": "https://www.icloud.com/reminders/",
+			"description": "Set reminders to be notified on your iPhone or Mac.",
+			"catagory": "internet",
+			"price": "Freemium"
+		},
+		{
 			"id": "bandcamp",
 			"name": "Bandcamp",
 			"url": "https://bandcamp.com",
 			"description": "Discover new music, and directory support musicians.",
 			"catagory": "multimedia",
+			"price": "Freemium"
+		},
+		{
+			"id": "boostnote",
+			"name": "Boostnote",
+			"url": "https://note.boostio.co",
+			"description": "A free and open source note-taking application.",
+			"catagory": "internet",
+			"price": "Free and Open Source"
+		},
+		{
+			"id": "box",
+			"name": "Box",
+			"url": "https://app.box.com",
+			"description": "A free service for file hosting and collaboration.",
+			"catagory": "internet",
 			"price": "Freemium"
 		},
 		{	
@@ -89,12 +169,28 @@
 			"price": "Free"
 		},
 		{
+			"id": "dropbox",
+			"name": "Dropbox",
+			"url": "https://www.dropbox.com/?_hp=c",
+			"description": "A free file hosting service.",
+			"catagory": "internet",
+			"price": "Freemium"
+		},
+		{
 			"id": "eyeshot",
 			"name": "Eyeshot",
 			"url": "https://eyeshot.xyz",
 			"description": "Teleport to a random spot on Google Street View, and explore the world.",
 			"catagory": "multimedia",
 			"price": "Free"
+		},
+		{
+			"id": "dynalist",
+			"name": "Dynalist",
+			"url": "https://dynalist.io/login",
+			"description": "Break down your ideas into lists.",
+			"catagory": "office",
+			"price": "Freemium"
 		},
 		{
 			"id": "evernote",
@@ -113,6 +209,14 @@
 			"price": "Free with Ads"
 		},
 		{
+			"id": "fbmessenger",
+			"name": "Facebook Messenger",
+			"url": "https://www.messenger.com/login.php",
+			"description": "An encrypted instant messenger owned by Facebook.",
+			"catagory": "internet",
+			"price": "Freemium"
+		},
+		{
 			"id": "feedly",
 			"name": "Feedly",
 			"url": "https://feedly.com/",
@@ -128,6 +232,22 @@
 			"catagory": "multimedia",
 			"price": "Free"
 		},
+		{
+			"id": "findmyfriends",
+			"name": "Find My Friends",
+			"url": "https://www.icloud.com/fmf/",
+			"description": "Find the location of your friends and family with their premission.",
+			"catagory": "accessories",
+			"price": "Free"
+		},
+		{
+			"id": "findmyphone",
+			"name": "Find My iPhone",
+			"url": "https://www.icloud.com/find/",
+			"description": "Locate your lost iPhone.",
+			"catagory": "accessories",
+			"price": "Free"
+		},
 		{	
 			"id": "hulu",
 			"name": "Hulu",
@@ -135,6 +255,22 @@
 			"description": "Watch unlimited Movies, TV Shows, Documentries, etc. (America and Japan Only)",
 			"catagory": "multimedia",
 			"price": "Subscription"
+		},
+		{
+			"id": "idrive",
+			"name": "iCloud Drive",
+			"url": "https://www.icloud.com/iclouddrive/",
+			"description": "Free Cloud Storage from Apple.",
+			"catagory": "internet",
+			"price": "Freemium"
+		},
+		{
+			"id": "imail",
+			"name": "iCloud Mail",
+			"url": "https://www.icloud.com/mail/",
+			"description": "Apple's Email service.",
+			"catagory": "internet",
+			"price": "Freemium"
 		},
 		{
 			"id": "ifttt",
@@ -197,8 +333,16 @@
 			"name": "Google Drive",
 			"url": "https://drive.google.com/drive/u/0/",
 			"description": "Google's tool for online file storage and backup/synchronization.",
-			"catagory": "office",
+			"catagory": "internet",
 			"price": "Freemium"
+		},
+		{
+			"id": "hangouts",
+			"name": "Google Hangouts",
+			"url": "https://hangouts.google.com/",
+			"description": "A instant messenger made by Google.",
+			"catagory": "internet",
+			"price": "Free"
 		},
 		{
 			"id": "gkeep",
@@ -284,7 +428,15 @@
 			"id": "newsblur",
 			"name": "Newsblur",
 			"url": "http://newsblur.com",
-			"description": "An RSS ffed manager.",
+			"description": "An RSS feed manager.",
+			"catagory": "internet",
+			"price": "Freemium"
+		},
+		{
+			"id": "nimbusnote",
+			"name": "Nimbus Note",
+			"url": "https://nimbusweb.me/auth/?f=login",
+			"description": "A very feature rich note-taker and organizer.",
 			"catagory": "internet",
 			"price": "Freemium"
 		},
@@ -393,7 +545,15 @@
 			"catagory": "internet",
 			"price": "Free"
 		},
-		{	
+		{
+			"id": "riotim",
+			"name": "Riot.im",
+			"url": "https://riot.im/app/",
+			"description": "A feature rich Matrix client.",
+			"catagory": "internet",
+			"price": "Free and Open Source"
+		},
+		{
 			"id": "scratch",
 			"name": "Scratch",
 			"url": "https://scratch.mit.edu",
@@ -401,11 +561,19 @@
 			"catagory": "programming",
 			"price": "Free"
 		},
-		{	
+		{
+			"id": "simplenote",
+			"name": "Simplenote",
+			"url": "https://app.simplenote.com",
+			"description": "A note-taking application with markdown support.",
+			"catagory": "office",
+			"price": "Free"
+		},
+		{
 			"id": "slack",
 			"name": "Slack",
 			"url": "https://app.slack.com/client",
-			"description": "A instant messager designed for collaboration in the Workplace. ",
+			"description": "A instant messenger designed for collaboration in the Workplace. ",
 			"catagory": "office",
 			"price": "Free"
 		},
@@ -433,6 +601,14 @@
 			"catagory": "games",
 			"price": "Free with Ads"
 		},
+		{	
+			"id": "skype",
+			"name": "Skype",
+			"url": "https://web.skype.com/",
+			"description": "An instant messenger and VoIP service owned by Microsoft.",
+			"catagory": "internet",
+			"price": "Freemium"	
+		},
 		{
 			"id": "soundcloud",
 			"name": "SoundCloud",
@@ -448,6 +624,22 @@
 			"description": "A music, podcast, and radio streaming service.",
 			"catagory": "multimedia",
 			"price": "Freemium with Ads"
+		},
+		{
+			"id": "standardnote",
+			"name": "Standard Notes",
+			"url": "https://app.standardnotes.org/",
+			"description": "An open source and privacy friendly note taking application with markdown support.",
+			"catagory": "office",
+			"price": "Freemium and Open Source"
+		},
+		{
+			"id": "startmail",
+			"name": "StartMail",
+			"url": "mail.startmail.com",
+			"description": "An encrypted email service made by Startpage.",
+			"catagory": "internet",
+			"price": "Freemium"
 		},
 		{
 			"id": "tangi",
@@ -472,6 +664,14 @@
 			"description": "A high quality music streaming service.",
 			"catagory": "multimedia",
 			"price": "Subscription"
+		},
+		{
+			"id": "telegram",
+			"name": "Telegram",
+			"url": "https://web.telegram.org",
+			"description": "A privacy-friendly instant messenger and VoIP service.",
+			"catagory": "internet",
+			"price": "Free"
 		},
 		{	
 			"id": "trello",
@@ -512,6 +712,14 @@
 			"description": "Remove the background off of any video of GIF.",
 			"catagory": "multimedia",
 			"price": "Freemium"
+		},
+		{
+			"id": "vivaldimail",
+			"name": "Vivaldi Mail",
+			"url": "https://webmail.vivaldi.net/",
+			"description": "Vivaldi's Free Mail and Calendar Service",
+			"catagory": "internet",
+			"price": "Free"
 		},
 		{
 			"id": "youtube",
@@ -570,12 +778,44 @@
 			"price": "Free"
 		},
 		{
+			"id": "wire",
+			"name": "Wire",
+			"url": "https://app.wire.com/",
+			"description": "An encrypted instant messenger designed for communicating with teams.",
+			"catagory": "internet",
+			"price": "Freemium"
+		},
+		{
+			"id": "whatsapp",
+			"name": "Whatsapp",
+			"url": "https://web.whatsapp.com/",
+			"description": "An encrypted instant messenger owned by Facebook.",
+			"catagory": "internet",
+			"price": "Freemium"
+		},
+		{
 			"id": "zacharyseguin",
 			"name": "Zachary Seguin",
 			"url": "https://music.zacharyseguin.ca",
 			"description": "A website-like unoffical Apple Music player (requires subscription).",
 			"catagory": "multimedia",
 			"price": "Free and Open Source"
+		},
+		{	
+			"id": "zohomail",
+			"name": "Zoho Mail",
+			"url": "https://mail.zoho.com/zm/",
+			"description": "A Ad-free email service with a minimal interface.",
+			"catagory": "internet",
+			"price": "Freemium"
+		},
+		{	
+			"id": "zohonotebook",
+			"name": "Zoho Notebook",
+			"url": "https://notebook.zoho.com/",
+			"description": "A very feature rich note-taking application.",
+			"catagory": "internet",
+			"price": "Freemium"
 		}
 	]
 }

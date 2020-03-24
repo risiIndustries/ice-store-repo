@@ -14,7 +14,7 @@
 			"url": "https://www.icloud.com/calendar/",
 			"description": "Manage your iCloud calendar.",
 			"catagory": "accessories",
-			"price": "Freemium"
+			"price": "Free"
 		},
 		{
 			"id": "icontacts",
@@ -22,7 +22,7 @@
 			"url": "https://www.icloud.com/contacts/",
 			"description": "Manage your iCloud contacts.",
 			"catagory": "accessories",
-			"price": "Freemium"
+			"price": "Free"
 		},
 		{
 			"id": "ikeynote",
@@ -46,7 +46,7 @@
 			"url": "https://www.icloud.com/notes/",
 			"description": "Apple's note service synced with iCloud.",
 			"catagory": "accessories",
-			"price": "Freemium"
+			"price": "Free"
 		},
 		{
 			"id": "inumbers",
@@ -69,7 +69,7 @@
 			"name": "Apple Photos",
 			"url": "https://www.icloud.com/photos/",
 			"description": "View your photos synced to iCloud.",
-			"catagory": "internet",
+			"catagory": "accessories",
 			"price": "Freemium"
 		},
 		{
@@ -77,8 +77,8 @@
 			"name": "Apple Reminders",
 			"url": "https://www.icloud.com/reminders/",
 			"description": "Set reminders to be notified on your iPhone or Mac.",
-			"catagory": "internet",
-			"price": "Freemium"
+			"catagory": "office",
+			"price": "Free"
 		},
 		{
 			"id": "bandcamp",
@@ -89,11 +89,27 @@
 			"price": "Freemium"
 		},
 		{
+			"id": "bitbucket",
+			"name": "Bitbucket",
+			"url": "https://bitbucket.org/dashboard/overview",
+			"description": "A web based version control repository hosting service.",
+			"catagory": "programming",
+			"price": "Freemium"
+		},
+		{
+			"id": "blogger",
+			"name": "Blogger",
+			"url": "https://www.blogger.com/",
+			"description": "Manage your blog and publish to it.",
+			"catagory": "internet",
+			"price": "Free"
+		},
+		{
 			"id": "boostnote",
 			"name": "Boostnote",
 			"url": "https://note.boostio.co",
 			"description": "A free and open source note-taking application.",
-			"catagory": "internet",
+			"catagory": "office",
 			"price": "Free and Open Source"
 		},
 		{
@@ -156,7 +172,7 @@
 			"id": "discord",
 			"name": "Discord",
 			"url": "https://discordapp.com/app",
-			"description": "A feature-rich chat platform designed for gamers in mind",
+			"description": "A feature-rich chat platform designed for gamers in mind.",
 			"catagory": "internet",
 			"price": "Freemium"
 		},
@@ -289,6 +305,14 @@
 			"price": "Freemium with Ads"
 		},
 		{
+			"id": "instagram",
+			"name": "Instagram",
+			"url": "https://www.instagram.com/",
+			"description": "Save pages and articles on the internet to view later.",
+			"catagory": "internet",
+			"price": "Freemium"
+		},
+		{
 			"id": "instapaper",
 			"name": "Instapaper",
 			"url": "https://www.instapaper.com/u",
@@ -321,6 +345,46 @@
 			"price": "Free"
 		},
 		{
+			"id": "gitlab",
+			"name": "GitLab",
+			"url": "https://gitlab.com/users/sign_in",
+			"description": "A service providing free git repos, issue tracking, and more.",
+			"catagory": "programming",
+			"price": "Freemium"
+		},
+		{
+			"id": "github",
+			"name": "GitHub",
+			"url": "https://github.com/login",
+			"description": "A free service owned by Microsoft for hosting git repos.",
+			"catagory": "programming",
+			"price": "Freemium"
+		},
+		{
+			"id": "gcalendar",
+			"name": "Google Calendar",
+			"url": "https://calendar.google.com",
+			"description": "Create and edit events for your Google Calendar.",
+			"catagory": "accessories",
+			"price": "Free"
+		},
+		{
+			"id": "gcontacts",
+			"name": "Google Contacts",
+			"url": "https://contacts.google.com/",
+			"description": "Manage your Contacts for your Google account.",
+			"catagory": "accessories",
+			"price": "Free"
+		},
+		{
+			"id": "gdocs",
+			"name": "Google Docs",
+			"url": "https://docs.google.com/document/u/0/",
+			"description": "A free word processor that syncs with Google Drive.",
+			"catagory": "office",
+			"price": "Freemium"
+		},
+		{
 			"id": "gmail",
 			"name": "Gmail",
 			"url": "https://mail.google.com/mail/u/0/",
@@ -334,6 +398,30 @@
 			"url": "https://drive.google.com/drive/u/0/",
 			"description": "Google's tool for online file storage and backup/synchronization.",
 			"catagory": "internet",
+			"price": "Freemium"
+		},
+		{
+			"id": "gearth",
+			"name": "Google Earth",
+			"url": "https://earth.google.com/web",
+			"description": "Explore Earth using Google Street View and satellite imagery.",
+			"catagory": "accessories",
+			"price": "Free"
+		},
+		{
+			"id": "gfonts",
+			"name": "Google Fonts",
+			"url": "https://fonts.google.com/",
+			"description": "A free library of almost 1000 fonts.",
+			"catagory": "system",
+			"price": "Free"
+		},
+		{
+			"id": "gforms",
+			"name": "Google Forms",
+			"url": "https://docs.google.com/forms/u/0/",
+			"description": "A free program for making forms and surveys that syncs with Google Drive.",
+			"catagory": "office",
 			"price": "Freemium"
 		},
 		{
@@ -361,12 +449,60 @@
 			"price": "Free"
 		},
 		{
+			"id": "gnews",
+			"name": "Google News",
+			"url": "https://news.google.com/",
+			"description": "A free news aggregator from Google.",
+			"catagory": "internet",
+			"price": "Free"
+		},
+		{
 			"id": "playmusic",
 			"name": "Google Play Music",
 			"url": "https://play.google.com/music/listen",
 			"description": "Stream music, podcasts, radio, and your own personal Google Play library.",
 			"catagory": "multimedia",
 			"price": "Freemium with Ads"
+		},
+		{
+			"id": "gsheets",
+			"name": "Google Sheets",
+			"url": "https://docs.google.com/spreadsheets/u/0/",
+			"description": "A free spreadsheet program that syncs with Google Drive.",
+			"catagory": "office",
+			"price": "Freemium"
+		},
+		{
+			"id": "gsites",
+			"name": "Google Sites",
+			"url": "https://sites.google.com",
+			"description": "A free tool for building websites (made by Google).",
+			"catagory": "office",
+			"price": "Freemium"
+		},
+		{
+			"id": "gslides",
+			"name": "Google Slides",
+			"url": "https://docs.google.com/presentation/u/0/",
+			"description": "A free presentation program that syncs with Google Drive.",
+			"catagory": "office",
+			"price": "Freemium"
+		},
+		{
+			"id": "gphotos",
+			"name": "Google Photos",
+			"url": "https://photos.google.com/",
+			"description": "View photos synced to your Google Account.",
+			"catagory": "graphics",
+			"price": "Free"
+		},
+		{
+			"id": "gtranslate",
+			"name": "Google Translate",
+			"url": "https://translate.google.com/",
+			"description": "A free translator with support for over 100 languages.",
+			"catagory": "accessories",
+			"price": "Free"
 		},
 		{	
 			"id": "krunker",
@@ -437,7 +573,7 @@
 			"name": "Nimbus Note",
 			"url": "https://nimbusweb.me/auth/?f=login",
 			"description": "A very feature rich note-taker and organizer.",
-			"catagory": "internet",
+			"catagory": "office",
 			"price": "Freemium"
 		},
 		{	
@@ -519,6 +655,14 @@
 			"description": "A basic photo editor.",
 			"catagory": "graphics",
 			"price": "Freemium"
+		},
+		{
+			"id": "poly",
+			"name": "Poly",
+			"url": "https://poly.google.com/",
+			"description": "Browse, distribute, and Download 3D models.",
+			"catagory": "graphics",
+			"price": "Free"
 		},
 		{	
 			"id": "quickdraw",
@@ -629,14 +773,14 @@
 			"id": "standardnote",
 			"name": "Standard Notes",
 			"url": "https://app.standardnotes.org/",
-			"description": "An open source and privacy friendly note taking application with markdown support.",
+			"description": "An open source and privacy friendly note taking application.",
 			"catagory": "office",
 			"price": "Freemium and Open Source"
 		},
 		{
 			"id": "startmail",
 			"name": "StartMail",
-			"url": "mail.startmail.com",
+			"url": "https://mail.startmail.com",
 			"description": "An encrypted email service made by Startpage.",
 			"catagory": "internet",
 			"price": "Freemium"
@@ -792,6 +936,14 @@
 			"description": "An encrypted instant messenger owned by Facebook.",
 			"catagory": "internet",
 			"price": "Freemium"
+		},
+		{
+			"id": "ytkids",
+			"name": "YouTube Kids",
+			"url": "https://www.youtubekids.com/",
+			"description": "A online video platform for Kids.",
+			"catagory": "internet",
+			"price": "Free"
 		},
 		{
 			"id": "zacharyseguin",

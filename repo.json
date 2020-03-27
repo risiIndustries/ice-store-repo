@@ -52,7 +52,7 @@
 			"id": "inumbers",
 			"name": "Apple Numbers",
 			"url": "https://www.icloud.com/numbers/",
-			"description": "Apple's spreadshirt program synced with iCloud.",
+			"description": "Apple's spreadsheet program synced with iCloud.",
 			"catagory": "office",
 			"price": "Freemium"
 		},
@@ -87,6 +87,22 @@
 			"description": "Discover new music, and directory support musicians.",
 			"catagory": "multimedia",
 			"price": "Freemium"
+		},
+		{
+			"id": "bingmaps",
+			"name": "Bing Maps",
+			"url": "https://www.bing.com/maps",
+			"description": "Microsoft's mapping service.",
+			"catagory": "accessories",
+			"price": "Free"
+		},
+		{
+			"id": "bingtranslate",
+			"name": "Bing Translator",
+			"url": "https://www.bing.com/translator",
+			"description": "A free translator by Microsoft.",
+			"catagory": "accessories",
+			"price": "Free"
 		},
 		{
 			"id": "bitbucket",
@@ -157,6 +173,14 @@
 			"name": "Bing COVID-19 Tracker",
 			"url": "https://bing.com/covid",
 			"description": "Learn about all the Coronavirus cases in your area.",
+			"catagory": "accessories",
+			"price": "Free"
+		},
+		{
+			"id": "deepl",
+			"name": "Deepl Translator",
+			"url": "https://www.deepl.com/translator",
+			"description": "A translator powered by artificial intelligence and machine learning.",
 			"catagory": "accessories",
 			"price": "Free"
 		},
@@ -537,6 +561,38 @@
 			"price": "Freemium"
 		},
 		{
+			"id": "msexcel",
+			"name": "Microsoft Excel Online",
+			"url": "https://www.office.com/launch/excel",
+			"description": "A spreadsheet program made by Microsoft as part of the Office suite.",
+			"catagory": "office",
+			"price": "Freemium"
+		},
+		{
+			"id": "msforms",
+			"name": "Microsoft Forms",
+			"url": "https://forms.office.com/",
+			"description": "An online survey creator made by Microsoft as part of the Office suite.",
+			"catagory": "office",
+			"price": "Freemium"
+		},
+		{
+			"id": "msoffice",
+			"name": "Microsoft Office Online",
+			"url": "https://www.office.com/login",
+			"description": "Microsoft's very popular Office Suite.",
+			"catagory": "office",
+			"price": "Freemium"
+		},
+		{
+			"id": "msword",
+			"name": "Microsoft Word Online",
+			"url": "https://www.office.com/launch/word",
+			"description": "A word processor made by Microsoft as part of the Office suite.",
+			"catagory": "office",
+			"price": "Freemium"
+		},
+		{
 			"id": "musish",
 			"name": "Musish",
 			"url": "https://musi.sh/",
@@ -574,6 +630,14 @@
 			"url": "https://nimbusweb.me/auth/?f=login",
 			"description": "A very feature rich note-taker and organizer.",
 			"catagory": "office",
+			"price": "Freemium"
+		},
+		{
+			"id": "msonedrive",
+			"name": "Microsoft OneDrive",
+			"url": "https://onedrive.live.com/",
+			"description": "A free file storage service made by Microsoft as part of the Office suite.",
+			"catagory": "internet",
 			"price": "Freemium"
 		},
 		{	

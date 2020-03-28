@@ -113,6 +113,14 @@
 			"price": "Freemium"
 		},
 		{
+			"id": "bitmelo",
+			"name": "Bitmelo",
+			"url": "https://bitmelo.com/",
+			"description": "A free 8-bit game engine and editor powered by Javascript..",
+			"catagory": "internet",
+			"price": "Free and Open Source"
+		},
+		{
 			"id": "blogger",
 			"name": "Blogger",
 			"url": "https://www.blogger.com/",
@@ -273,6 +281,14 @@
 			"price": "Free"
 		},
 		{
+			"id": "ffsend",
+			"name": "Firefox Send",
+			"url": "https://send.firefox.com/",
+			"description": "A quick and easy way to send a file (up to 2.5 GB) to someone.",
+			"catagory": "internet",
+			"price": "Free and Open Source"
+		},
+		{
 			"id": "findmyfriends",
 			"name": "Find My Friends",
 			"url": "https://www.icloud.com/fmf/",
@@ -351,6 +367,14 @@
 			"description": "A open source, roguelike MMO.",
 			"catagory": "games",
 			"price": "Free and Open Source"
+		},
+		{
+			"id": "jamboard",
+			"name": "Jamboard",
+			"url": "https://jamboard.google.com/",
+			"description": "An interactive whiteboard created by Google for collaboration.",
+			"catagory": "office",
+			"price": "Freemium"
 		},
 		{
 			"id": "jsfiddle",
@@ -501,8 +525,8 @@
 			"name": "Google Sites",
 			"url": "https://sites.google.com",
 			"description": "A free tool for building websites (made by Google).",
-			"catagory": "office",
-			"price": "Freemium"
+			"catagory": "programming",
+			"price": "Free"
 		},
 		{
 			"id": "gslides",
@@ -543,6 +567,14 @@
 			"description": "A tool for music discovery, music tracking tool, and streaming service.",
 			"catagory": "multimedia",
 			"price": "Freemium with Ads"
+		},
+		{
+			"id": "retroarch",
+			"name": "RetroArch Web Player",
+			"url": "https://web.libretro.com/",
+			"description": "A frontend for emulators, game engines, and media players.",
+			"catagory": "games",
+			"price": "Free"
 		},
 		{
 			"id": "maeve",
@@ -633,11 +665,51 @@
 			"price": "Freemium"
 		},
 		{
+			"id": "msflow",
+			"name": "Microsoft Flow",
+			"url": "https://flow.microsoft.com/en-us",
+			"description": "Connect all your favorite services together to automate your workflows.",
+			"catagory": "internet",
+			"price": "Freemium"
+		},
+		{
 			"id": "msonedrive",
 			"name": "Microsoft OneDrive",
 			"url": "https://onedrive.live.com/",
 			"description": "A free file storage service made by Microsoft as part of the Office suite.",
 			"catagory": "internet",
+			"price": "Freemium"
+		},
+		{
+			"id": "msonenote",
+			"name": "Microsoft OneNote",
+			"url": "https://onedrive.live.com/",
+			"description": "A note-taking app made by Microsoft as part of the Office suite.",
+			"catagory": "office",
+			"price": "Freemium"
+		},
+		{
+			"id": "mspowerpoint",
+			"name": "Microsoft Powerpoint",
+			"url": "https://www.office.com/launch/powerpoint",
+			"description": "A presentation program made by Microsoft as part of the Office suite.",
+			"catagory": "office",
+			"price": "Freemium"
+		},
+		{
+			"id": "mssway",
+			"name": "Microsoft Sway",
+			"url": "https://www.office.com/launch/powerpoint",
+			"description": "A presentation program focused on the web, made by Microsoft as part of the Office suite.",
+			"catagory": "office",
+			"price": "Freemium"
+		},
+		{
+			"id": "mstodo",
+			"name": "Microsoft To-Do",
+			"url": "https://to-do.microsoft.com",
+			"description": "A task management tool made by Microsoft.",
+			"catagory": "office",
 			"price": "Freemium"
 		},
 		{	
@@ -881,6 +953,22 @@
 			"catagory": "internet",
 			"price": "Free"
 		},
+		{
+			"id": "todoist",
+			"name": "Todoist",
+			"url": "https://todoist.com/app",
+			"description": "A organization platform that allows you to create To-Do lists and reminders.",
+			"catagory": "office",
+			"price": "Freemium"
+		},
+		{
+			"id": "toodledo",
+			"name": "Toodledo",
+			"url": "https://tasks.toodledo.com",
+			"description": "A powerful task manager tool.",
+			"catagory": "office",
+			"price": "Freemium with Ads"
+		},
 		{	
 			"id": "trello",
 			"name": "Trello",
@@ -1002,6 +1090,14 @@
 			"price": "Freemium"
 		},
 		{
+			"id": "wpscloud",
+			"name": "WPS Cloud",
+			"url": "https://account.wps.com/?cb=https://drive.wps.com",
+			"description": "A file storage platform with a word processor, and presentation and spreadsheet tools.",
+			"catagory": "internet",
+			"price": "Freemium"
+		},
+		{
 			"id": "ytkids",
 			"name": "YouTube Kids",
 			"url": "https://www.youtubekids.com/",
@@ -1018,19 +1114,75 @@
 			"price": "Free and Open Source"
 		},
 		{	
+			"id": "zohodocs",
+			"name": "Zoho Docs",
+			"url": "https://accounts.zoho.com/signin?servicename=ZohoPC",
+			"description": "Free online file storage by Zoho.",
+			"catagory": "internet",
+			"price": "Freemium"
+		},
+		{	
+			"id": "zohoforms",
+			"name": "Zoho Forms",
+			"url": "https://accounts.zoho.com/signin?servicename=ZohoSurvey",
+			"description": "A free form creation service by Zoho.",
+			"catagory": "internet",
+			"price": "Freemium"
+		},
+		{	
 			"id": "zohomail",
 			"name": "Zoho Mail",
 			"url": "https://mail.zoho.com/zm/",
-			"description": "A Ad-free email service with a minimal interface.",
+			"description": "A ad-free email service with a minimal interface.",
 			"catagory": "internet",
 			"price": "Freemium"
 		},
 		{	
 			"id": "zohonotebook",
 			"name": "Zoho Notebook",
-			"url": "https://notebook.zoho.com/",
+			"url": "https://accounts.zoho.com/signin?servicename=NoteBook",
 			"description": "A very feature rich note-taking application.",
+			"catagory": "office",
+			"price": "Freemium"
+		},
+		{	
+			"id": "zohosheet",
+			"name": "Zoho Sheet",
+			"url": "https://accounts.zoho.com/signin?servicename=ZohoSheet",
+			"description": "A free spreadsheet program made by Zoho.",
+			"catagory": "office",
+			"price": "Freemium"
+		},
+		{	
+			"id": "zohoshow",
+			"name": "Zoho Show",
+			"url": "https://accounts.zoho.com/signin?servicename=ZohoShow",
+			"description": "A free presentation program made by Zoho.",
+			"catagory": "office",
+			"price": "Freemium"
+		},
+		{
+			"id": "zohosites",
+			"name": "Zoho Sites",
+			"url": "https://accounts.zoho.com/signin?servicename=ZohoSites",
+			"description": "A free web builder by Zoho.",
+			"catagory": "programming",
+			"price": "Freemium"
+		},
+		{	
+			"id": "zohosurvey",
+			"name": "Zoho Survey",
+			"url": "https://accounts.zoho.com/signin?servicename=ZohoSurvey",
+			"description": "A free survey creation service by Zoho.",
 			"catagory": "internet",
+			"price": "Freemium"
+		},
+		{	
+			"id": "zohowriter",
+			"name": "Zoho Writer",
+			"url": "https://accounts.zoho.com/signin?servicename=ZohoWriter",
+			"description": "A free word processer made by Zoho.",
+			"catagory": "office",
 			"price": "Freemium"
 		}
 	]

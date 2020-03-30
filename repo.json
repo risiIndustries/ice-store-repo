@@ -8,6 +8,14 @@
 			"catagory": "multimedia",
 			"price": "Subscription"
 		},
+		{	
+			"id": "amplol",
+			"name": "Amp.lol",
+			"url": "https://amp.lol/",
+			"description": "Just radio. No bloat. ",
+			"catagory": "multimedia",
+			"price": "Free"
+		},
 		{
 			"id": "icalendar",
 			"name": "Apple Calendar",
@@ -304,7 +312,23 @@
 			"catagory": "accessories",
 			"price": "Free"
 		},
-		{	
+		{
+			"id": "flipboard",
+			"name": "Flipboard",
+			"url": "https://flipboard.com/",
+			"description": "A free news aggregator.",
+			"catagory": "internet",
+			"price": "Free"
+		},
+		{
+			"id": "fotor",
+			"name": "Fotor",
+			"url": "https://www.fotor.com/app.html",
+			"description": "A simple photo editor.",
+			"catagory": "multimedia",
+			"price": "Free"
+		},
+		{
 			"id": "hulu",
 			"name": "Hulu",
 			"url": "https://www.hulu.com/",
@@ -457,6 +481,14 @@
 			"price": "Free"
 		},
 		{
+			"id": "gfmd",
+			"name": "Google Find My Device",
+			"url": "https://www.google.com/android/find",
+			"description": "Find your lost Android phone.",
+			"catagory": "accessories",
+			"price": "Free"
+		},
+		{
 			"id": "gfonts",
 			"name": "Google Fonts",
 			"url": "https://fonts.google.com/",
@@ -582,13 +614,21 @@
 			"url": "https://maevemusic.app",
 			"description": "An unoffical material design Apple Music player (requires subscription).",
 			"catagory": "multimedia",
-			"price": "Free & Open Source"
+			"price": "Free and Open Source"
 		},
 		{
 			"id": "mega",
 			"name": "Mega",
 			"url": "https://mega.nz/",
 			"description": "Encrypted online file storage service.",
+			"catagory": "office",
+			"price": "Freemium"
+		},
+		{
+			"id": "moodo",
+			"name": "Moo.do",
+			"url": "https://www.moo.do/web/",
+			"description": "A task manager, outliner, email client, calendar, all in one.",
 			"catagory": "office",
 			"price": "Freemium"
 		},
@@ -630,7 +670,7 @@
 			"url": "https://musi.sh/",
 			"description": "A feature rich unoffical Apple Music player (requires subscription).",
 			"catagory": "multimedia",
-			"price": "Free & Open Source"
+			"price": "Free and Open Source"
 		},
 		{
 			"id": "themusic",
@@ -1087,6 +1127,22 @@
 			"url": "https://web.whatsapp.com/",
 			"description": "An encrypted instant messenger owned by Facebook.",
 			"catagory": "internet",
+			"price": "Freemium"
+		},
+		{
+			"id": "wechat",
+			"name": "Wechat",
+			"url": "https://web.wechat.com/?lang=en",
+			"description": "A instant messenger, social media, and payment platform popular in China.",
+			"catagory": "internet",
+			"price": "Freemium"
+		},
+		{
+			"id": "workflowy",
+			"name": "WorkFlowy",
+			"url": "https://workflowy.com/",
+			"description": "A outliner focusing on nested lists.",
+			"catagory": "office",
 			"price": "Freemium"
 		},
 		{

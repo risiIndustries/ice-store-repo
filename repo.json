@@ -625,6 +625,14 @@
 			"price": "Freemium"
 		},
 		{
+			"id": "methodsvg",
+			"name": "Method Draw",
+			"url": "https://editor.method.ac/",
+			"description": "A simple SVG editor.",
+			"catagory": "office",
+			"price": "Free and Open Source"
+		},
+		{
 			"id": "moodo",
 			"name": "Moo.do",
 			"url": "https://www.moo.do/web/",

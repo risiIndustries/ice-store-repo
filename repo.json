@@ -1,4 +1,55 @@
 {
+	"featured": [
+		{	
+			"id": "codepen",
+			"name": "Codepen",
+			"url": "https://codepen.io/",
+			"description": "An online community for sharing their front-end web development projects.",
+			"catagory": "programming",
+			"price": "Freemium"
+		},
+		{
+			"id": "ffsend",
+			"name": "Firefox Send",
+			"url": "https://send.firefox.com/",
+			"description": "A quick and easy way to send a file (up to 2.5 GB) to someone.",
+			"catagory": "internet",
+			"price": "Free and Open Source"
+		},
+		{	
+			"id": "islewood",
+			"name": "Islewood",
+			"url": "https://play.isleward.com/",
+			"description": "A open source, roguelike MMO.",
+			"catagory": "games",
+			"price": "Free"
+		},
+		{
+			"id": "maeve",
+			"name": "Maeve Music Player",
+			"url": "https://maevemusic.app",
+			"description": "A very customizable unoffical Apple Music player.",
+			"catagory": "multimedia",
+			"price": "Free"
+		},
+		{	
+			"id": "openscrobbler",
+			"name": "Open Scrobbler",
+			"url": "https://openscrobbler.com/",
+			"description": "A tool for manually scrobbling songs to Last.FM.",
+			"catagory": "multimedia",
+			"price": "Free and Open Source"
+		},
+		{
+			"id": "riotim",
+			"name": "Riot.im",
+			"url": "https://riot.im/app/",
+			"description": "A feature rich Matrix client.",
+			"catagory": "internet",
+			"price": "Free and Open Source"
+		}
+	],
+	
 	"iceapps": [
 		{	
 			"id": "primevideo",

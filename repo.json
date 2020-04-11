@@ -1308,7 +1308,7 @@
 			"catagory": "accessories",
 			"price": "Freemium"
 		},
-		{`	
+		{	
 			"id": "dashlane",
 			"name": "Dashlane",
 			"url": "https://app.dashlane.com/login",

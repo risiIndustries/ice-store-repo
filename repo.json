@@ -1299,6 +1299,31 @@
 			"description": "A free word processer made by Zoho.",
 			"catagory": "office",
 			"price": "Freemium"
+		},
+		{
+			"id": "lastpass",
+			"name": "LastPass",
+			"url": "https://lastpass.com/?ac=1",
+			"description": "A free passwork manager from LogMeIn",
+			"catagory": "accessories",
+			"price": "Freemium"
+		},
+		{	
+			"id": "dashlane",
+			"name": "Dashlane",
+			"url": "https://app.dashlane.com/login",
+			"description": "A subscription password manager",
+			"catagory": "accessories",
+			"price": "Subscription"
+		},
+		{	
+			"id": "onepassword",
+			"name": "1Password",
+			"url": "https://my.1password.com/signin",
+			"description": "A subscription password manager with advanced security features",
+			"catagory": "accessories",
+			"price": "Subscription"
+		
 		}
 	]
 }

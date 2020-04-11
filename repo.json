@@ -1315,6 +1315,14 @@
 			"description": "A subscription password manager",
 			"catagory": "accessories",
 			"price": "Subscription"
+		},
+		{	
+			"id": "onepassword",
+			"name": "1Password",
+			"url": "https://my.1password.com/signin",
+			"description": "A subscription password manager with advanced security features",
+			"catagory": "accessories",
+			"price": "Subscription"
 		
 		}
 	]

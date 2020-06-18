@@ -1228,6 +1228,16 @@
 			"catagory": "multimedia",
 			"price": "Free and Open Source"
 		},
+		{
+			
+			"id": "zapier",
+			"name": "Zapier",
+			"url": "https://zapier.com/app/login",
+			"description": "A free online workflow automator with support for over 2000 apps.",
+			"catagory": "internet",
+			"price": "Freemium"
+			
+		},
 		{	
 			"id": "zohodocs",
 			"name": "Zoho Docs",

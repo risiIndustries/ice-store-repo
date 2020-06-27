@@ -234,6 +234,7 @@
 			"description": "Discover and create web development projects.",
 			"catagory": "programming",
 			"price": "Freemium with Ads"
+		},
 		{
 			"id": "colab",
 			"name": "Google Colab",

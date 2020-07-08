@@ -484,6 +484,14 @@
 			"price": "Freemium"
 		},
 		{
+			"id": "colab",
+			"name": "Google Colab",
+			"url": "https://colab.research.google.com/",
+			"description": "A hosted Jupyter notebook service with access to free computing resources",
+			"catagory": "programming",
+			"price": "Free"
+		},
+		{
 			"id": "gcalendar",
 			"name": "Google Calendar",
 			"url": "https://calendar.google.com",
